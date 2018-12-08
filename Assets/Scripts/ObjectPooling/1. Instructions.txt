@@ -1,0 +1,1 @@
+If a GameObject is being created and destroyed often, add the script RecycleGameObject to it so that it'll be pooled for better performance.
